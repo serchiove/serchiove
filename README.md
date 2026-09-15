@@ -12,7 +12,7 @@
 <br>
 
 ### 👨‍💻 `whoami`
-<img align="right" width="280" src="./sergio-chocho.png" alt="Sergio y Chocho">
+<img align="right" width="280" alt="sergio-chocho" src="https://github.com/user-attachments/assets/67979175-2f93-48b0-9a44-8309fa815e6e" />
 
 ```json
 {
