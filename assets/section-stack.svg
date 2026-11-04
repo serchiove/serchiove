@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="146" viewBox="0 0 1000 146" fill="none">
+ <rect width="1000" height="146" rx="16" fill="#0E1B14"/>
+ <path d="M1 30V116" stroke="#D4F98A" stroke-width="3"/>
+ <g font-family="Segoe UI,Arial,sans-serif">
+  <text x="28" y="35" fill="#A4B49F" font-size="11" letter-spacing="2">03 / SERCHIOVE</text>
+  <text x="28" y="78" fill="#F0F1E6" font-size="32" font-weight="600">Ideas claras.</text>
+  <text x="28" y="116" fill="#D4F98A" font-size="32" font-weight="600">Herramientas reales.</text>
+  <text x="948" y="106" text-anchor="end" fill="#D4F98A" font-size="58" font-weight="300">↗</text>
+ </g>
+</svg>

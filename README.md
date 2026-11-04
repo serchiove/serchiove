@@ -16,13 +16,15 @@
 
 Backend como punto de partida. Curiosidad por todo lo que lo rodea.
 
+[![Visita mi portafolio](https://img.shields.io/badge/EXPLORA_MI_PORTAFOLIO_%E2%86%97-D4F98A?style=for-the-badge&labelColor=102018)](https://sergio-veliz-desarrollo.starry-petal-8499.chatgpt.site/)
+
 </div>
 
 <br>
 
 <a id="sobre-mi"></a>
 
-## 01 / Sobre mí
+<h2><img src="./assets/section-about.svg" width="100%" alt="01 / Sobre mí — Detrás del código, una persona." /></h2>
 
 Soy **Sergio**, estudiante de **Ingeniería de Sistemas en la UTP, Arequipa**. Me interesa convertir procesos reales en aplicaciones claras: entender el negocio, modelar sus datos y construir la lógica que lo sostiene.
 
@@ -34,7 +36,7 @@ Mi enfoque combina **backend, arquitectura de software y bases de datos** con un
 
 <a id="proyectos"></a>
 
-## 02 / Proyectos seleccionados
+<h2><img src="./assets/section-projects.svg" width="100%" alt="02 / Proyectos seleccionados — El código cobra vida." /></h2>
 
 <a href="https://github.com/serchiove/parkutp-proyweb"><img src="./assets/parkutp.svg" width="49%" alt="ParkUTP — aplicación web para gestionar estacionamientos universitarios. Ver repositorio." /></a>
 <a href="https://github.com/serchiove/milk-traceability-offline"><img src="./assets/milk.svg" width="49%" alt="Milk Traceability Offline — trazabilidad y control de calidad láctea sin conexión. Ver repositorio." /></a>
@@ -56,7 +58,7 @@ Mi enfoque combina **backend, arquitectura de software y bases de datos** con un
 
 <a id="stack"></a>
 
-## 03 / Mi caja de herramientas
+<h2><img src="./assets/section-stack.svg" width="100%" alt="03 / Stack — Ideas claras. Herramientas reales." /></h2>
 
 <table>
 <tr>
@@ -93,7 +95,7 @@ Mi enfoque combina **backend, arquitectura de software y bases de datos** con un
 
 <a id="fuera-del-editor"></a>
 
-## 04 / Fuera del editor
+<h2><img src="./assets/section-personal.svg" width="100%" alt="04 / Fuera del editor, también soy yo." /></h2>
 
 <img align="right" width="190" src="https://github.com/user-attachments/assets/67979175-2f93-48b0-9a44-8309fa815e6e" alt="Sergio y Chocho, mi compañero de programación" />
 
@@ -115,13 +117,13 @@ No todo pasa en la terminal.
 
 <br>
 
-### Una idea es un buen punto de partida.
+<h2><img src="./assets/section-contact.svg" width="100%" alt="05 / Contacto — Todo empieza con un hola." /></h2>
 
 Conversemos sobre desarrollo, tecnología o lo que estás construyendo.
 
-<a href="https://www.linkedin.com/in/sergio-veliz-525b2a388/"><img src="https://img.shields.io/badge/LinkedIn-15243B?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:sermi7626@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-5EEAD4?style=for-the-badge&amp;logo=gmail&amp;logoColor=0B1222" alt="Escríbeme por Gmail" /></a>
-<a href="mailto:sergioveliz_carras12@hotmail.com"><img src="https://img.shields.io/badge/Outlook-15243B?style=for-the-badge&amp;logoColor=white" alt="Correo Outlook" /></a>
+<a href="https://www.linkedin.com/in/sergio-veliz-525b2a388/"><img src="https://img.shields.io/badge/LinkedIn-213B29?style=for-the-badge&amp;logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sermi7626@gmail.com"><img src="https://img.shields.io/badge/Escr%C3%ADbeme-D4F98A?style=for-the-badge&amp;logo=gmail&amp;logoColor=0C1711" alt="Escríbeme por Gmail" /></a>
+<a href="mailto:sergioveliz_carras12@hotmail.com"><img src="https://img.shields.io/badge/Outlook-213B29?style=for-the-badge&amp;logoColor=white" alt="Correo Outlook" /></a>
 
 <br><br>
 
