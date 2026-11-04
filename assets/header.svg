@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="480" viewBox="0 0 1280 480" fill="none">
+  <defs>
+    <linearGradient id="bg" x2="1280" y2="480" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1222"/><stop offset="1" stop-color="#111D33"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#5EEAD4"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity=".06"/></pattern>
+  </defs>
+  <rect width="1280" height="480" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="480" rx="24" fill="url(#grid)"/>
+  <path d="M0 456H1280" stroke="url(#accent)" stroke-width="2"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <rect x="56" y="48" width="196" height="32" rx="16" fill="#5EEAD4" fill-opacity=".08" stroke="#5EEAD4" stroke-opacity=".3"/>
+    <circle cx="76" cy="64" r="4" fill="#5EEAD4"/>
+    <text x="91" y="69" fill="#5EEAD4" font-size="12" font-weight="700" letter-spacing="2">SERCHIOVE / DEV</text>
+    <text x="56" y="159" fill="#F1F5F9" font-size="64" font-weight="750" letter-spacing="-2">Sergio Veliz</text>
+    <text x="56" y="229" fill="#F1F5F9" font-size="64" font-weight="750" letter-spacing="-2">Carrasco<tspan fill="#5EEAD4">.</tspan></text>
+    <text x="59" y="280" fill="#5EEAD4" font-size="19" font-weight="600">Backend · Full-stack · Linux</text>
+    <text x="59" y="326" fill="#A5B4CC" font-size="18">De la lógica de negocio al software que la hace posible.</text>
+    <text x="59" y="416" fill="#94A3B8" font-size="12" letter-spacing="2">INGENIERÍA DE SISTEMAS / UTP</text>
+    <text x="1224" y="416" text-anchor="end" fill="#94A3B8" font-size="12" letter-spacing="2">AREQUIPA, PERÚ</text>
+    <rect x="824" y="104" width="400" height="246" rx="14" fill="#080F1D" stroke="#263750"/>
+    <path d="M824 145H1224" stroke="#263750"/>
+    <circle cx="846" cy="125" r="4" fill="#FB7185"/><circle cx="862" cy="125" r="4" fill="#FBBF24"/><circle cx="878" cy="125" r="4" fill="#5EEAD4"/>
+    <text x="1203" y="130" text-anchor="end" fill="#64748B" font-size="11">~/serchiove</text>
+  </g>
+  <g font-family="Consolas,monospace" font-size="14">
+    <text x="848" y="182" fill="#5EEAD4">$ cat developer.yml</text>
+    <text x="848" y="219" fill="#93C5FD">focus:<tspan fill="#CBD5E1"> backend + data</tspan></text>
+    <text x="848" y="246" fill="#93C5FD">building:</text>
+    <text x="866" y="273" fill="#CBD5E1">- ParkUTP</text>
+    <text x="866" y="300" fill="#CBD5E1">- Milk Traceability Offline</text>
+    <path d="M848 325H856" stroke="#5EEAD4" stroke-width="3"/>
+  </g>
+</svg>
