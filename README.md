@@ -30,7 +30,7 @@ Soy **Sergio**, estudiante de **Ingeniería de Sistemas en la UTP, Arequipa**. M
 
 Mi enfoque combina **backend, arquitectura de software y bases de datos** con una visión analítica de la logística y la distribución. También exploro el desarrollo full-stack, las soluciones SaaS y los entornos Linux.
 
-> **Ahora estoy construyendo:** ParkUTP y Milk Traceability Offline — movilidad universitaria y trazabilidad láctea sin depender de una conexión.
+> **Ahora estoy construyendo:** ParkUTP, Milk Traceability Offline y **Una Manito con Winners32** — movilidad universitaria, trazabilidad láctea y colaboración vecinal.
 
 <br>
 
@@ -40,6 +40,13 @@ Mi enfoque combina **backend, arquitectura de software y bases de datos** con un
 
 <a href="https://github.com/serchiove/parkutp-proyweb"><img src="./assets/parkutp.svg" width="49%" alt="ParkUTP — aplicación web para gestionar estacionamientos universitarios. Ver repositorio." /></a>
 <a href="https://github.com/serchiove/milk-traceability-offline"><img src="./assets/milk.svg" width="49%" alt="Milk Traceability Offline — trazabilidad y control de calidad láctea sin conexión. Ver repositorio." /></a>
+
+<br><br>
+
+<a href="https://github.com/Melissa-1217/una-manito-app"><img src="./assets/una-manito.svg" width="100%" alt="Una Manito — proyecto de Winners32 para conectar servicios, recursos y ayuda vecinal. Mi aporte: coordinación técnica e integración." /></a>
+
+**[Probar Una Manito ↗](https://una-manito-app.vercel.app/)** &nbsp; · &nbsp; **[Ver el repositorio del equipo ↗](https://github.com/Melissa-1217/una-manito-app)**
+
 
 <br><br>
 
