@@ -45,9 +45,9 @@ My main interests are **backend engineering, software architecture, and database
 
 <br><br>
 
-<a href="https://github.com/Melissa-1217/una-manito-app"><img src="./assets/una-manito.svg" width="100%" alt="Una Manito — a Winners32 project connecting neighborhood services, resources, and mutual aid. My contribution: technical coordination and integration." /></a>
+<a href="https://github.com/Melissa-1217/una-manito-app"><img src="./assets/una-manito.svg" width="100%" alt="Una Manito — a Winners32 project built end to end by Sergio, covering product design, React implementation, Supabase integration, Gemini-assisted publishing, PWA support, and deployment." /></a>
 
-Community platform for local services, neighbor-to-neighbor help, emergency coordination, and reviewed neighborhood alerts. **My contribution:** technical coordination and integration.
+I built Una Manito end to end as its **solo developer**, from product design and the React application to Supabase integration, Gemini-assisted publishing, PWA support, and deployment. The app connects neighbors with local services and shared resources, supports emergency coordination, and publishes neighborhood alerts after human review.
 
 **[View the team repository ↗](https://github.com/Melissa-1217/una-manito-app)**
 
