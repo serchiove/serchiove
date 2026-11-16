@@ -14,9 +14,9 @@
     <text x="56" y="159" fill="url(#accent)" font-size="64" font-weight="750" letter-spacing="-2">Sergio Veliz</text>
     <text x="56" y="229" fill="url(#accent)" font-size="64" font-weight="750" letter-spacing="-2">Carrasco<tspan fill="#D4F98A">.</tspan></text>
     <text x="59" y="280" fill="#D4F98A" font-size="19" font-weight="600">Backend · Full-stack · Linux</text>
-    <text x="59" y="326" fill="#B4C1AD" font-size="18">De la lógica de negocio al software que la hace posible.</text>
-    <text x="59" y="416" fill="#A4B49F" font-size="12" letter-spacing="2">INGENIERÍA DE SISTEMAS / UTP</text>
-    <text x="1224" y="416" text-anchor="end" fill="#A4B49F" font-size="12" letter-spacing="2">AREQUIPA, PERÚ</text>
+    <text x="59" y="326" fill="#B4C1AD" font-size="18">From business logic to the software that brings it to life.</text>
+    <text x="59" y="416" fill="#A4B49F" font-size="12" letter-spacing="2">SYSTEMS ENGINEERING / UTP</text>
+    <text x="1224" y="416" text-anchor="end" fill="#A4B49F" font-size="12" letter-spacing="2">AREQUIPA, PERU</text>
     <rect x="824" y="104" width="400" height="246" rx="14" fill="#0A130E" stroke="#304532"/>
     <path d="M824 145H1224" stroke="#304532"/>
     <circle cx="846" cy="125" r="4" fill="#FB7185"/><circle cx="862" cy="125" r="4" fill="#FBBF24"/><circle cx="878" cy="125" r="4" fill="#D4F98A"/>
