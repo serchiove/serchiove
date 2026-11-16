@@ -4,11 +4,11 @@
 
 <br><br>
 
-<a href="#about">About</a> &nbsp; · &nbsp;
-<a href="#projects">Projects</a> &nbsp; · &nbsp;
-<a href="#tech-stack">Tech Stack</a> &nbsp; · &nbsp;
-<a href="#beyond-the-editor">Beyond the Editor</a> &nbsp; · &nbsp;
-<a href="#contact">Contact</a>
+<a href="#about"><img src="https://img.shields.io/badge/01_About-D4F98A?style=flat-square&amp;labelColor=102018" alt="01 · About" /></a> &nbsp;
+<a href="#projects"><img src="https://img.shields.io/badge/02_Projects-D4F98A?style=flat-square&amp;labelColor=102018" alt="02 · Projects" /></a> &nbsp;
+<a href="#tech-stack"><img src="https://img.shields.io/badge/03_Tech_Stack-D4F98A?style=flat-square&amp;labelColor=102018" alt="03 · Tech Stack" /></a> &nbsp;
+<a href="#beyond-the-editor"><img src="https://img.shields.io/badge/04_Beyond_the_Editor-D4F98A?style=flat-square&amp;labelColor=102018" alt="04 · Beyond the Editor" /></a> &nbsp;
+<a href="#contact"><img src="https://img.shields.io/badge/05_Contact-D4F98A?style=flat-square&amp;labelColor=102018" alt="05 · Contact" /></a>
 
 <br><br>
 
@@ -39,9 +39,9 @@ My main interests are **backend engineering, software architecture, and database
 <a href="https://github.com/serchiove/parkutp-proyweb"><img src="./assets/parkutp.svg" width="49%" alt="ParkUTP — a web application for managing university parking. View repository." /></a>
 <a href="https://github.com/serchiove/milk-traceability-offline"><img src="./assets/milk.svg" width="49%" alt="ACOPIO / Milk Traceability Offline — dairy traceability and quality control, even offline. View repository." /></a>
 
-<p><strong>ParkUTP · Academic team project (APF2)</strong><br>Manage campuses and parking areas, record entries and exits, and track occupancy and history.<br><sub>Java 21 · Spring Boot · PostgreSQL · JWT · JSP/JSF</sub></p>
+<p><strong>ParkUTP · Academic team project (APF2)</strong><br>Manage campuses and parking areas, record entries and exits, and track occupancy and history.<br><img src="https://skillicons.dev/icons?i=java,spring,postgres&amp;theme=dark" height="32" alt="Java, Spring Boot, and PostgreSQL" /><br><sub>Java 21 · Spring Boot · PostgreSQL · JWT · JSP/JSF</sub></p>
 
-<p><strong>ACOPIO · Academic project</strong><br>Offline-capable milk intake with server-side quality checks, tank assignment, traceability, and reporting. The integrated Android and dashboard workflow has been verified; the project uses fictional data.<br><sub>Flutter · Dart · Spring Boot · PostgreSQL · React/Vite</sub></p>
+<p><strong>ACOPIO · Academic project</strong><br>Offline-capable milk intake with server-side quality checks, tank assignment, traceability, and reporting. The integrated Android and dashboard workflow has been verified; the project uses fictional data.<br><img src="https://skillicons.dev/icons?i=flutter,dart,spring,postgres,react,vite&amp;theme=dark" height="32" alt="Flutter, Dart, Spring Boot, PostgreSQL, React, and Vite" /><br><sub>Flutter · Dart · Spring Boot · PostgreSQL · React/Vite</sub></p>
 
 <br><br>
 
