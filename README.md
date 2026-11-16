@@ -12,9 +12,9 @@
 
 <br><br>
 
-**Software that connects data, business, and operations.**
+**I build software for real operational workflows.**
 
-Backend is my starting point. I’m curious about everything around it.
+My work spans offline data capture, secure APIs, and full-stack applications, with a focus on the logic and data behind them.
 
 [![Explore my portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO_%E2%86%97-D4F98A?style=for-the-badge&labelColor=102018)](https://sergio-veliz-desarrollo.starry-petal-8499.chatgpt.site/)
 
@@ -26,11 +26,9 @@ Backend is my starting point. I’m curious about everything around it.
 
 <h2><img src="./assets/section-about.svg" width="100%" alt="01 / About — Behind the code, there’s a person." /></h2>
 
-I’m **Sergio**, a **Systems Engineering student at UTP in Arequipa**. I enjoy turning real-world processes into clear applications: understanding the business, modeling its data, and building the logic that supports it.
+I’m **Sergio**, a **Systems Engineering student at UTP in Arequipa**. I build practical software by understanding the workflow, modeling its data, and implementing the backend logic that supports it.
 
-My focus combines **backend development, software architecture, and databases** with an analytical perspective on logistics and distribution. I also explore full-stack development, SaaS solutions, and Linux environments.
-
-> **Currently building:** ParkUTP, Milk Traceability Offline, and **Una Manito with Winners32** — university mobility, dairy traceability, and community collaboration.
+My main interests are **backend engineering, software architecture, and databases**, especially for logistics and operational systems. I also work across the stack and explore Linux environments.
 
 <br>
 
@@ -39,11 +37,17 @@ My focus combines **backend development, software architecture, and databases** 
 <h2><img src="./assets/section-projects.svg" width="100%" alt="02 / Selected Projects — Bringing code to life." /></h2>
 
 <a href="https://github.com/serchiove/parkutp-proyweb"><img src="./assets/parkutp.svg" width="49%" alt="ParkUTP — a web application for managing university parking. View repository." /></a>
-<a href="https://github.com/serchiove/milk-traceability-offline"><img src="./assets/milk.svg" width="49%" alt="Milk Traceability Offline — dairy traceability and quality control, even offline. View repository." /></a>
+<a href="https://github.com/serchiove/milk-traceability-offline"><img src="./assets/milk.svg" width="49%" alt="ACOPIO / Milk Traceability Offline — dairy traceability and quality control, even offline. View repository." /></a>
+
+<p><strong>ParkUTP · Academic team project (APF2)</strong><br>Manage campuses and parking areas, record entries and exits, and track occupancy and history.<br><sub>Java 21 · Spring Boot · PostgreSQL · JWT · JSP/JSF</sub></p>
+
+<p><strong>ACOPIO · Academic project</strong><br>Offline-capable milk intake with server-side quality checks, tank assignment, traceability, and reporting. The integrated Android and dashboard workflow has been verified; the project uses fictional data.<br><sub>Flutter · Dart · Spring Boot · PostgreSQL · React/Vite</sub></p>
 
 <br><br>
 
 <a href="https://github.com/Melissa-1217/una-manito-app"><img src="./assets/una-manito.svg" width="100%" alt="Una Manito — a Winners32 project connecting neighborhood services, resources, and mutual aid. My contribution: technical coordination and integration." /></a>
+
+Community platform for local services, neighbor-to-neighbor help, emergency coordination, and reviewed neighborhood alerts. **My contribution:** technical coordination and integration.
 
 **[View the team repository ↗](https://github.com/Melissa-1217/una-manito-app)**
 
@@ -67,7 +71,7 @@ My focus combines **backend development, software architecture, and databases** 
 
 <h2><img src="./assets/section-stack.svg" width="100%" alt="03 / Tech Stack — Clear ideas. Practical tools." /></h2>
 
-<table>
+<table align="center" width="90%">
 <tr>
 <td width="50%" valign="top">
 <h3>Backend &amp; Data</h3>
@@ -134,7 +138,10 @@ Let’s talk about software, technology, or whatever you’re building.
 
 <br><br>
 
-[Instagram](https://www.instagram.com/checho_velizz/) &nbsp; / &nbsp; [Steam](https://steamcommunity.com/profiles/76561199044780477/) &nbsp; / &nbsp; [Facebook](https://www.facebook.com/sergio.veliz.77128/) &nbsp; / &nbsp; [GitHub Activity](https://github.com/serchiove?tab=overview)
+<a href="https://www.instagram.com/checho_velizz/"><img src="https://img.shields.io/badge/Instagram-D4F98A?style=for-the-badge&amp;logo=instagram&amp;logoColor=102018" alt="Instagram" /></a>
+<a href="https://steamcommunity.com/profiles/76561199044780477/"><img src="https://img.shields.io/badge/Steam-D4F98A?style=for-the-badge&amp;logo=steam&amp;logoColor=102018" alt="Steam" /></a>
+<a href="https://www.facebook.com/sergio.veliz.77128/"><img src="https://img.shields.io/badge/Facebook-D4F98A?style=for-the-badge&amp;logo=facebook&amp;logoColor=102018" alt="Facebook" /></a>
+<a href="https://github.com/serchiove?tab=overview"><img src="https://img.shields.io/badge/GitHub_Activity-D4F98A?style=for-the-badge&amp;logo=github&amp;logoColor=102018" alt="GitHub Activity" /></a>
 
 <br>
 
